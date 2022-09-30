@@ -36,7 +36,7 @@ span {
     border: 5px;
     border-radius: 25px;
     background: linear-gradient(169deg, rgba(107,107,107,1) 0%, rgba(170,170,170,1) 39%, rgba(244,244,244,1) 100%);
-    box-shadow: 2px 5px rgba(107,107,107,1)
+    box-shadow: 1px 5px rgba(170,170,170,1);
 }
 
 .card_content {
